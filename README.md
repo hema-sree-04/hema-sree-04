@@ -29,4 +29,3 @@
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
-![](https://komarev.com/ghpvc/?username=hema-sree-04&color=blue)
