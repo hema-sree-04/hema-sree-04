@@ -1,8 +1,11 @@
 ## Hi 👋, I'm Hema Sree
 
 💻 3rd year B.Tech Student
+ 
 🌱 Currently learning Emerging Technologies, Web Development, Core Concepts
+
 🚀 Building Projects
+
 📫 Reach me: hema24sree0407@email.com
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=hema-sree-04&show_icons=true&theme=tokyonight)
