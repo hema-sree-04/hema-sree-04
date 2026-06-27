@@ -16,7 +16,17 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/hema-sree-konjarla-aa1a24328)
-[LeetCode](https://leetcode.com/u/smCxC2oACp/)
-[HackerRank]((https://www.hackerrank.com/profile/hema24sree0407)
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hema-sree-konjarla-aa1a24328">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/smCxC2oACp/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/hema24sree0407">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 ![](https://komarev.com/ghpvc/?username=hema-sree-04&color=blue)
