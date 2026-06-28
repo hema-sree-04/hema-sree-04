@@ -6,7 +6,12 @@
 
 🚀 Building Projects
 
-📫 Reach me: hema24sree0407@email.com
+<h2 align="center">📫 Reach Me</h2>
+
+<p align="center">
+  <a href="mailto:hema24sree0407@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 ## 💻 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,mysql,postgres,opencv,tensorflow,git,github,docker,flask,mongodb,nodejs,windows,discord,figma,linkedin,vscode,linux)](https://skillicons.dev)
 ## 📊 Data Visualization
@@ -15,7 +20,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 ##🌐 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/hema-sree-konjarla-aa1a24328">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
