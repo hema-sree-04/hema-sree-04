@@ -6,9 +6,9 @@
 
 🚀 Building Projects
 
-<h2 align="center">📫 Reach Me</h2>
+<h2 align="left">📫 Reach Me</h2>
 
-<p align="center">
+<p align="left">
   <a href="mailto:hema24sree0407@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
