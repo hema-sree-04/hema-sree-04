@@ -6,15 +6,7 @@
 
 🚀 Building Projects
 
-<h2 align="left">📫 Reach Me</h2>
-
-<p align="left">
-  <a href="mailto:hema24sree0407@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@hema_sree_04)
+👋 Reach Me : hema24sree0407@gmail.com
 
 ## 💻 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,mysql,postgres,opencv,tensorflow,git,github,docker,flask,mongodb,nodejs,windows,discord,figma,linkedin,vscode,linux)](https://skillicons.dev)
