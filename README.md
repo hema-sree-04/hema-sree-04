@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-🌐 Connect with Me
+##🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/hema-sree-konjarla-aa1a24328">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -28,10 +28,10 @@
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
+##Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/hema-sree-04/hema-sree-04/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
-##Contributions
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=hema-sree-04&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-sree-04&layout=compact&theme=tokyonight)
