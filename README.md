@@ -28,6 +28,10 @@
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
+##
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hema-sree-04/hema-sree-04/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=hema-sree-04&show_icons=true&theme=tokyonight)
