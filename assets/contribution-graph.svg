@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="360"
+     viewBox="0 0 1200 360">
+
+  <style>
+    .bg {
+      fill: #0d1117;
+    }
+
+    .title {
+      font-family: Arial, sans-serif;
+      font-size: 22px;
+      font-weight: bold;
+      fill: #ffffff;
+    }
+
+    .subtitle {
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      fill: #8b949e;
+    }
+
+    .month {
+      font-family: Arial, sans-serif;
+      font-size: 12px;
+      fill: #8b949e;
+    }
+
+    .grid {
+      stroke: #30363d;
+      stroke-width: 1;
+      opacity: 0.7;
+    }
+
+    .area {
+      fill: #238636;
+      opacity: 0.25;
+    }
+
+    .line {
+      fill: none;
+      stroke: #39d353;
+      stroke-width: 3;
+    }
+
+    .point {
+      fill: #39d353;
+    }
+
+    .peak {
+      fill: #00e5ff;
+      stroke: #ffffff;
+      stroke-width: 2;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect
+    class="bg"
+    x="0"
+    y="0"
+    width="1200"
+    height="360"
+    rx="14"
+  />
+
+  <!-- Heading -->
+  <text
+    x="40"
+    y="42"
+    class="title">
+    Contribution Activity Graph
+  </text>
+
+  <!-- Subtitle -->
+  <text
+    x="40"
+    y="68"
+    class="subtitle">
+    GitHub contribution activity
+  </text>
+
+  <!-- Statistics -->
+  <text
+    x="850"
+    y="42"
+    class="subtitle">
+    Total Contributions
+  </text>
+
+  <text
+    x="850"
+    y="65"
+    class="subtitle">
+    Updated automatically
+  </text>
+
+  <!-- Horizontal grid -->
+  <line x1="80" y1="100" x2="1160" y2="100" class="grid"/>
+  <line x1="80" y1="134" x2="1160" y2="134" class="grid"/>
+  <line x1="80" y1="168" x2="1160" y2="168" class="grid"/>
+  <line x1="80" y1="202" x2="1160" y2="202" class="grid"/>
+  <line x1="80" y1="236" x2="1160" y2="236" class="grid"/>
+  <line x1="80" y1="270" x2="1160" y2="270" class="grid"/>
+
+  <!-- Vertical grid -->
+  <line x1="80" y1="100" x2="80" y2="270" class="grid"/>
+  <line x1="260" y1="100" x2="260" y2="270" class="grid"/>
+  <line x1="440" y1="100" x2="440" y2="270" class="grid"/>
+  <line x1="620" y1="100" x2="620" y2="270" class="grid"/>
+  <line x1="800" y1="100" x2="800" y2="270" class="grid"/>
+  <line x1="980" y1="100" x2="980" y2="270" class="grid"/>
+  <line x1="1160" y1="100" x2="1160" y2="270" class="grid"/>
+
+  <!-- Contribution area -->
+  <polygon
+    class="area"
+    points="
+      80,270
+      100,260
+      120,255
+      140,265
+      160,245
+      180,250
+      200,235
+      220,242
+      240,220
+      260,230
+      280,215
+      300,225
+      320,200
+      340,210
+      360,190
+      380,205
+      400,175
+      420,185
+      440,195
+      460,160
+      480,170
+      500,150
+      520,165
+      540,145
+      560,155
+      580,135
+      600,150
+      620,125
+      640,140
+      660,120
+      680,130
+      700,110
+      720,125
+      740,105
+      760,120
+      780,100
+      800,115
+      820,130
+      840,120
+      860,145
+      880,130
+      900,155
+      920,145
+      940,165
+      960,150
+      980,180
+      1000,170
+      1020,195
+      1040,185
+      1060,210
+      1080,200
+      1100,225
+      1120,215
+      1140,240
+      1160,225
+      1160,270
+    "
+  />
+
+  <!-- Contribution line -->
+  <polyline
+    class="line"
+    points="
+      80,270
+      100,260
+      120,255
+      140,265
+      160,245
+      180,250
+      200,235
+      220,242
+      240,220
+      260,230
+      280,215
+      300,225
+      320,200
+      340,210
+      360,190
+      380,205
+      400,175
+      420,185
+      440,195
+      460,160
+      480,170
+      500,150
+      520,165
+      540,145
+      560,155
+      580,135
+      600,150
+      620,125
+      640,140
+      660,120
+      680,130
+      700,110
+      720,125
+      740,105
+      760,120
+      780,100
+      800,115
+      820,130
+      840,120
+      860,145
+      880,130
+      900,155
+      920,145
+      940,165
+      960,150
+      980,180
+      1000,170
+      1020,195
+      1040,185
+      1060,210
+      1080,200
+      1100,225
+      1120,215
+      1140,240
+      1160,225
+    "
+  />
+
+  <!-- Peak point -->
+  <circle
+    class="peak"
+    cx="780"
+    cy="100"
+    r="6"
+  />
+
+  <!-- Additional points -->
+  <circle class="point" cx="400" cy="175" r="3"/>
+  <circle class="point" cx="540" cy="145" r="3"/>
+  <circle class="point" cx="620" cy="125" r="3"/>
+  <circle class="point" cx="700" cy="110" r="3"/>
+  <circle class="point" cx="900" cy="155" r="3"/>
+
+  <!-- Month labels -->
+  <text x="80" y="325" class="month">Oct</text>
+  <text x="180" y="325" class="month">Nov</text>
+  <text x="280" y="325" class="month">Dec</text>
+  <text x="380" y="325" class="month">Jan</text>
+  <text x="480" y="325" class="month">Feb</text>
+  <text x="580" y="325" class="month">Mar</text>
+  <text x="680" y="325" class="month">Apr</text>
+  <text x="780" y="325" class="month">May</text>
+  <text x="880" y="325" class="month">Jun</text>
+  <text x="980" y="325" class="month">Jul</text>
+  <text x="1080" y="325" class="month">Aug</text>
+
+</svg>
