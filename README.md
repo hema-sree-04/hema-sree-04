@@ -10,6 +10,7 @@
 
 ## 💻 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,c,mysql,postgres,opencv,tensorflow,git,github,docker,flask,mongodb,nodejs,windows,discord,supabase,figma,linkedin,vscode,linux)](https://skillicons.dev)
+
 ## 📊 Data Visualization
 <p align="left">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -29,22 +30,24 @@
   </a>
 </p>
 
-## 📊 Contributions
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hema-sree-04/hema-sree-04/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img
+    src="./assets/contribution-graph.svg"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
-## 📊 GitHub Stats
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hema-sree-04&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema-sree-04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hema-sree-04&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hema-sree-04&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://raw.githubusercontent.com/hema-sree-04/hema-sree-04/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  />
 </p>
