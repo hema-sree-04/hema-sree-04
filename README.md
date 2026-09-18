@@ -38,7 +38,7 @@
 </div>
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computer-working-all-nighter-BferOKonYOspm28AiB/giphy.gif">
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
@@ -68,7 +68,9 @@ const hema sree = {
 
 <!-- Tech Stack with Icons -->
 <h2 align="center">
- <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="30px">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
+  Tech Arsenal
+</h2>
   Tech Arsenal
 </h2>
 
