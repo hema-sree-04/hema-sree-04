@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Konjarla%20Hema%20Sree&fontSize=68&fontColor=FFFFFF&fontAlignY=50&stroke=7B42F6&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Konjarla%20Hema%20Sree&fontSize=48&fontColor=FFFFFF&fontAlignY=50&stroke=7B42F6&strokeWidth=1"
     alt="Konjarla Hema Sree"
   />
 
