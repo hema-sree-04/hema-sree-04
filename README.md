@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 32px;">✦ Konjarla Hema Sree ✦</span>
+    <span style="font-size: 68px;">✦ Konjarla Hema Sree ✦</span>
   </strong>
 </p>
 
