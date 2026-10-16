@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <strong>
-      <font size="7">✦ Konjarla Hema Sree ✦</font>
+      <font size="68">✦ Konjarla Hema Sree ✦</font>
     </strong>
   </p>
 
