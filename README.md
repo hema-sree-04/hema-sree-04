@@ -1,8 +1,9 @@
 <div align="center">
   <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Konjarla%20Hema%20Sree&fontSize=48&fontColor=FFFFFF&fontAlignY=50&desc=✦&descSize=24&descColor=7B42F6"
-/>
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Konjarla%20Hema%20Sree&fontSize=48&fontColor=FFFFFF&fontAlignY=50&stroke=7B42F6&strokeWidth=1"
+    alt="Hema Sree"
+  />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;LeetCode+Enthusiast+%F0%9F%8E%AF;AI+Explorer+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
