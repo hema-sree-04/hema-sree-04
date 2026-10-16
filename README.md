@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Hema+Sree&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Simple Name Banner -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hema+Sree"
+  alt="Hema Sree"
+/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;LeetCode+Enthusiast+%F0%9F%8E%AF;AI+Explorer+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
