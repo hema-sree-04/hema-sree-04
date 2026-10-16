@@ -5,7 +5,7 @@
 <p>
   <samp>━━━━━━━━━━━</samp>
   <br>
-  <b>✧ &nbsp; C O D E &nbsp; • &nbsp; C R E A T E &nbsp; • &nbsp; I N N O V A T E &nbsp; ✧</b>
+  <b> &nbsp; C O D E &nbsp; • &nbsp; C R E A T E &nbsp; • &nbsp; I N N O V A T E &nbsp; </b>
   <br>
   <samp>━━━━━━━━━━━</samp>
 </p>
