@@ -1,10 +1,9 @@
 <div align="center">
-
-<p align="center">
-  <strong>
-    <span style="font-size: 68px;">✦ Konjarla Hema Sree ✦</span>
-  </strong>
-</p>
+  <p>
+    <strong>
+      <font size="7">✦ Konjarla Hema Sree ✦</font>
+    </strong>
+  </p>
 
 <p>
   <samp>━━━━━━━━━━━</samp>
