@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  ✦ <span>Konjarla Hema Sree</span> ✦
+  ✦ Konjarla Hema Sree ✦
 </h1>
 
 <p>
