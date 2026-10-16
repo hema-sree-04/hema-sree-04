@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>✦ Konjarla Hema Sree ✦</h2>
+  <h1>✦ Konjarla Hema Sree ✦</h1>
 
 <p>
   <samp>━━━━━━━━━━━</samp>
