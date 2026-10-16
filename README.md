@@ -1,7 +1,16 @@
 <div align="center">
-  <h1 align="center">
-  <span style="color:#FFFFFF" fontSize=68>Konjarla Hema Sree</span>
+
+<h1>
+  ✦ <span>Konjarla Hema Sree</span> ✦
 </h1>
+
+<p>
+  <samp>━━━━━━━━━━━</samp>
+  <br>
+  <b>✧ &nbsp; C O D E &nbsp; • &nbsp; C R E A T E &nbsp; • &nbsp; I N N O V A T E &nbsp; ✧</b>
+  <br>
+  <samp>━━━━━━━━━━━</samp>
+</p>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;LeetCode+Enthusiast+%F0%9F%8E%AF;AI+Explorer+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
