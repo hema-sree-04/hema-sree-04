@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-  <span style="color:#FFFFFF" fontSize=48>Konjarla Hema Sree</span>
+  <span style="color:#FFFFFF" fontSize=68>Konjarla Hema Sree</span>
 </h1>
 
 <!-- Typing Animation -->
